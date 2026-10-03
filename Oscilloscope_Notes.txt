@@ -1,0 +1,14 @@
+1. The bandwidth of an oscilloscope is written on it, above the screen.
+2. The general rule is, that bandwidth >= 5 * Signal Frequency that u wanna measure.
+3. Sampling rate is also given, just right of the bandwidth, unit - GSa/s.
+4. Sampling rate should be >= 5 * signal frequency.
+
+- For Measuring Stuff : 
+1. Type meas button under Measure section.
+2. Select type, by pressing its corresponding button neighboring to screen.
+3. Use main controller knob (Entry) to select peak to peak voltage.
+4. Press the knob to select and then press add measurement.
+5. Can see other measurements using this method too.
+6. While seeing these measurements, insert usb, press save/recall and then hit save.
+
+- Set probe setting to 10x for higher bandwidth. Also set probe 10x from oscilloscope.
